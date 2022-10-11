@@ -1,4 +1,4 @@
-package net.htlgkr.krejo.example;
+package net.htlgkr.krejo.example1;
 
 import java.util.Scanner;
 

@@ -1,9 +1,8 @@
-package net.htlgkr.krejo.example;
+package net.htlgkr.krejo.example1;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Callable;
-import java.util.stream.Collectors;
 
 public class Chunker implements Callable<List<Integer>> {
     List<Integer> chunk;
